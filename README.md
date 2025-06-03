@@ -48,19 +48,7 @@ Usage Instructions:
 3. The application will run in the background, monitoring for threats.
 4. Check the **Activity Log** tab to view events, backups, and quarantined items.
 
-Project Folder Structure:
--------------------------
-RansomwareDetector/
-│
-├── Setup/                         -> Published installer files
-│   └── RansomwareDetectorSetup.exe
-├── SourceCode/                    -> Complete Visual Studio project
-│   ├── RansomwareDetector.sln
-│   └── (All .cs and resource files)
-├── Documentation/
-│   └── FinalReport.pdf
-│   └── UserGuide.pdf
-├── README.txt                     -> This file
+
 
 Note:
 -----
